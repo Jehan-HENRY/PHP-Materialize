@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://jehan.captus-rnd.com/sitemap.xml

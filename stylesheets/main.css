@@ -1,0 +1,16 @@
+.parallax img {
+  width: 100%;
+}
+
+.mail {
+  color: white;
+  text-decoration: none;
+}
+
+.container.main {
+  min-height: 50vh;
+}
+
+main {
+  flex: 1 0 auto;
+}
